@@ -1,6 +1,6 @@
 # CPP-Module-00
-I had to complete the following exercise using the object-oriented approach. The subject of the exercise is setting up a phonebook.
-
+I had to complete the following exercise 01 using the object-oriented approach. The subject of the exercise is to set up a phonebook. 
+-------------------------------------------------------------------------------------------------------------------------------------
 TASK
 
 You have to implement two classes:
